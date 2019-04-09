@@ -13,7 +13,7 @@
 	<link></link>
 	<description>We provide customized meal plans delivered to your door, meals to achieve your goals.</description>
 	<lastBuildDate>
-	Tue, 09 Apr 2019 01:14:27 +0000	</lastBuildDate>
+	Tue, 09 Apr 2019 01:42:13 +0000	</lastBuildDate>
 	<language>en-CA</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 				<category><![CDATA[Uncategorised]]></category>
 
 		<guid isPermaLink="false">/?p=1</guid>
-				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or<span class="more-button"><a href="/2019/03/21/hello-world/" class="more-link">Continue reading<span class="screen-reader-text">Hello world!</span></a></span>]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
